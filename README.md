@@ -21,29 +21,29 @@ Financial institutions need to identify financially vulnerable companies at an e
 
 ## Planned Methodology
 
-Financial Data  
-↓  
-Data Cleaning  
-↓  
-Exploratory Data Analysis  
-↓  
-Financial Risk Indicators  
-↓  
-Predictive Modeling  
-↓  
-Risk Scoring  
-↓  
-Power BI Dashboard  
-↓  
+Financial Data
+↓
+Data Cleaning & Preprocessing
+↓
+Exploratory Data Analysis
+↓
+Financial Risk Indicators
+↓
+Predictive Modeling
+↓
+Risk Scoring
+↓
+Power BI Dashboard
+↓
 Risk Management Recommendations
 
 ## Technologies
 
 - Python
-- SQL
 - Excel
 - Power BI
 - Machine Learning
+- SQL
 
 ## Project Status
 
@@ -51,4 +51,4 @@ Risk Management Recommendations
 
 ## Important Note
 
-This project is developed for research, learning, and portfolio purposes using appropriate public or synthetic data. No confidential customer or institutional information is used.
+This project is developed for research, learning, and portfolio purposes using publicly available or appropriately simulated data. It does not use confidential customer information, proprietary institutional data, or non-public HSBC Bangladesh information.
