@@ -1,1 +1,6 @@
 Year,Total_Assets,Total_Loans_Advances,Total_Liabilities,Total_Equity,Net_Interest_Income,Profit_Before_Tax,Profit_After_Tax,ROA,ROE,Capital_Adequacy_Ratio,Tier_1_Capital_Ratio,Liquidity_Coverage_Ratio,Net_Stable_Funding_Ratio,Non_Performing_Loan_Ratio,Loan_Loss_Provision,Cost_to_Income_Ratio,Leverage_Ratio,Operational_Risk_Charge,Credit_Risk_Charge,Market_Risk_Charge,Risk_Weighted_Assets,High_Quality_Liquid_Assets,Total_Net_Cash_Outflows,Available_Stable_Funding,Required_Stable_Funding,Risk_Score,Risk_Category
+2020,100000,65000,90000,10000,4500,1800,1500,1.50,15.00,12.50
+2021,110000,72000,98000,12000,5000,2100,1750,1.59,14.58,13.20
+2022,125000,85000,110000,15000,5600,2400,2000,1.60,13.33,12.80
+2023,140000,98000,123000,17000,6100,2600,2150,1.54,12.65,11.90
+2024,155000,112000,137000,18000,6500,2300,1900,1.23,10.56,10.80
